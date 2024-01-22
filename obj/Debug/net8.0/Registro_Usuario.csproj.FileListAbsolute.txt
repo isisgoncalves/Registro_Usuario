@@ -1,0 +1,15 @@
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Registro_Usuario\obj\Debug\net8.0\Registro_Usuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Registro_Usuario\obj\Debug\net8.0\Registro_Usuario.AssemblyInfoInputs.cache
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Registro_Usuario\obj\Debug\net8.0\Registro_Usuario.AssemblyInfo.cs
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Registro_Usuario\obj\Debug\net8.0\Registro_Usuario.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Registro_Usuario\obj\Debug\net8.0\Registro_Usuario.sourcelink.json
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Registro_Usuario\bin\Debug\net8.0\Registro_Usuario.exe
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Registro_Usuario\bin\Debug\net8.0\Registro_Usuario.deps.json
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Registro_Usuario\bin\Debug\net8.0\Registro_Usuario.runtimeconfig.json
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Registro_Usuario\bin\Debug\net8.0\Registro_Usuario.dll
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Registro_Usuario\bin\Debug\net8.0\Registro_Usuario.pdb
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Registro_Usuario\obj\Debug\net8.0\Registro_Usuario.dll
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Registro_Usuario\obj\Debug\net8.0\refint\Registro_Usuario.dll
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Registro_Usuario\obj\Debug\net8.0\Registro_Usuario.pdb
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Registro_Usuario\obj\Debug\net8.0\Registro_Usuario.genruntimeconfig.cache
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Registro_Usuario\obj\Debug\net8.0\ref\Registro_Usuario.dll
